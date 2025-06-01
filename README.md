@@ -94,7 +94,7 @@ GestionInventarios/
 
 1. Clona este repositorio en tu servidor web:
    ```bash
-   git clone https://github.com/usuario/GestionInventarios.git
+   git clone https://github.com/Dallex-MT/GestionInventarios.git
    ```
 
 2. Navega al directorio del proyecto:
